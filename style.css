@@ -1,0 +1,49 @@
+body{
+    font-family: sans-serif;
+    font-weight: 600;
+}
+#footer-section{
+    background: #EAD1DC;
+    max-width: 100%;
+   
+}
+
+.question-section{
+   margin-left: 120px;
+   font-weight: 600;
+}
+hr{
+    height:2px;
+    border-width:0;
+    color:rgb(8, 7, 7);
+    background-color:rgb(7, 6, 6);
+    width: 80%;
+    margin: auto;
+}
+.partner-section{
+    background: #C9DAF8;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    padding: 5px 0;
+    border: 2px solid #b4b2b2 ;
+   
+}
+.partner-section img{
+    height: 80px;
+}
+.condition a{
+    color: #000;
+    text-transform: capitalize;
+    text-decoration: none;
+}
+.footer-list{
+    justify-content: space-between;
+    text-align: center;
+    text-transform: capitalize;
+    margin-left: 50px;
+    
+}
+.footer-list a{
+    color: #000;
+}
